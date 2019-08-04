@@ -1,0 +1,20 @@
+ 
+[{
+    "trigger": {
+        "url-filter": "connect.facebook.net*"
+    },
+    "action": {
+        "type": "block"
+    }
+    
+},
+{
+    "trigger": {
+        "url-filter": "www.facebook.com/tr/*"
+    },
+    "action": {
+        "type": "block"
+    }
+    
+}
+]
